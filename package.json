@@ -1,0 +1,48 @@
+{
+  "author": {
+    "name": "Vivek Kumar",
+    "email": "vivek43nit@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/vivek43nit/node-app-boot-listener-express/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "~0.7.2",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "morgan": "^1.9.0",
+    "node-app-boot": "https://github.com/vivek43nit/node-app-boot.git#boot-app-listener"
+  },
+  "name": "node-app-boot-listener-express",
+  "version": "1.0.0",
+  "description": "A express boot module for node js using node-app-boot module",
+  "directories": {},
+  "homepage": "https://github.com/vivek43nit/node-app-boot-listener-express#readme",
+  "keywords": [
+    "app-manager",
+    "node-boot",
+    "node-express-boot",
+    "node-app-boot-listener-express",
+    "express",
+    "express manager",
+    "express boot",
+    "express boot manager",
+    "express app manager"
+  ],
+  "license": "MIT",
+  "main": "lib/ExpressBootAppListener.js",
+  "optionalDependencies": {},
+  "maintainers": [
+    {
+      "name": "Vivek Kumar",
+      "email": "vivek43nit@gmail.com"
+    }
+  ],
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vivek43nit/node-app-boot-listener-express.git"
+  }
+}
