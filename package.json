@@ -13,7 +13,7 @@
     "express": "^4.16.2",
     "express-session": "^1.15.6",
     "morgan": "^1.9.0",
-    "node-app-boot": "https://github.com/vivek43nit/node-app-boot.git#boot-app-listener"
+    "node-app-boot": "^2.0.0-0"
   },
   "name": "node-app-boot-listener-express",
   "version": "1.0.0",
