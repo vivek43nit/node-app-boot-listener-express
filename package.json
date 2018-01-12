@@ -16,7 +16,7 @@
     "node-app-boot": "^2.0.0-0"
   },
   "name": "node-app-boot-listener-express",
-  "version": "1.0.1-0",
+  "version": "1.0.2",
   "description": "A express boot module for node js using node-app-boot module",
   "directories": {},
   "homepage": "https://github.com/vivek43nit/node-app-boot-listener-express#readme",
